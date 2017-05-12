@@ -12,6 +12,10 @@ Check the initial configuration of a linux host. For instance:
 - Update the bashrc with some FUT (Frequently Used Things)
 
 
+## check-for-param.sh
+
+Check the existence of parameters.
+
 ## clip.sh [requires xclip, xdotool]
 
 Very useful. Copy a signature to the clipboard, and paste it anywhere.
